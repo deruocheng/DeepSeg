@@ -1,2 +1,2 @@
-# DeepSeg
-Image Segmentation Models
+# PCBXraySeg
+Segmentation of PCB X-ray CT Scan Images
